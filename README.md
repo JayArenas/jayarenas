@@ -14,7 +14,8 @@
 
 <br/>
 
-<div align="center"> I'm Jay! 💻 First and foremost, thank you for taking the time to be here and taking a loog at what I have been up to.
+<div align="center"> I'm Jay! 💻 First and foremost, thank you for taking the time to be here and taking a look at what I have been up to.
+<br/> 
 A little background: I am a lifelong musician and creative. I am a software engineer, welder, and photographer.  I love creating, and technology and have committed to learning new technologies and languages.
 </div>  
   
@@ -36,7 +37,7 @@ A little background: I am a lifelong musician and creative. I am a software engi
 --- 
 
 
-### My Skill Set:  
+### My Skill Sets:  
 
 
 <div align="center">
