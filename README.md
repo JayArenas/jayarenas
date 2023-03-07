@@ -35,7 +35,6 @@ Frontend
 
 <br/>
 
-<br/>
  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -46,11 +45,14 @@ Frontend
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
 </div>
 
+<br/>
+
+<br/>
+
 <div align="center">
 Backend  
 </div>
 
-<br/>
 
 <br/>
 
