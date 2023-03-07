@@ -3,8 +3,12 @@
 </div>  
   
 
-# <div align="center">Welcome!</div>  
-  
+### <div align="center">Welcome!</div>  
+
+
+---
+
+### About Me:
 
 <div align="center"> I'm Jay! 💻 First and foremost, thank you for taking the time to be here and taking a loog at what I have been up to.
 A little background: I am a lifelong musician and creative. I am a software engineer, welder, and photographer.  I love creating, and technology and have committed to learning new technologies and languages.
@@ -23,15 +27,16 @@ A little background: I am a lifelong musician and creative. I am a software engi
 
 - ⚡ Fun fact: I LOVE flying FPV drones and Photography  
   
+--- 
 
 <br/>  
 
 
-## My Skill Set  
+### My Skill Set:  
 
 <div align="center">
 Frontend  
-</div>
+
 
 <br/>
 
@@ -44,6 +49,7 @@ Frontend
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
 </div>
+ </div>
 
 <br/>
 
@@ -51,10 +57,6 @@ Frontend
 
 <div align="center">
 Backend  
-</div>
-
-
-<br/>
 
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -62,11 +64,20 @@ Backend
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
 </div>
+  
+ </div>
 
 <br/>  
 
+---
 
-## Connect with me  
+### My Stats: 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayarenas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+### Connect with me  
 <div align="center">
 <a href="https://instagram.com/https://www.instagram.com/mountainbase_photography/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
