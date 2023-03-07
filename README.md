@@ -6,7 +6,7 @@
 # <div align="center">Welcome!</div>  
   
 
-<div align="center"> I'm Jay! 💻 First and foremost, thank you for taking the time to be here and having a gander at what I have been up to.
+<div align="center"> I'm Jay! 💻 First and foremost, thank you for taking the time to be here and taking a loog at what I have been up to.
 A little background: I am a lifelong musician and creative. I am a software engineer, welder, and photographer.  I love creating, and technology and have committed to learning new technologies and languages.
 </div>  
   
@@ -29,9 +29,13 @@ A little background: I am a lifelong musician and creative. I am a software engi
 
 ## My Skill Set  
 
-<div align-center>
-### Frontend  
+<div align="center">
+Frontend  
 </div>
+
+<br/>
+
+<br/>
  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -43,8 +47,12 @@ A little background: I am a lifelong musician and creative. I am a software engi
 </div>
 
 <div align="center">
-### Backend  
+Backend  
 </div>
+
+<br/>
+
+<br/>
 
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
