@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://tinyurl.com/4f7nynhz" align="center" style="width: 100%" />
 </div>  
+
+
   
 
 ### <div align="center">Welcome!</div>  
@@ -9,6 +11,8 @@
 ---
 
 ### About Me:
+
+<br/>
 
 <div align="center"> I'm Jay! 💻 First and foremost, thank you for taking the time to be here and taking a loog at what I have been up to.
 A little background: I am a lifelong musician and creative. I am a software engineer, welder, and photographer.  I love creating, and technology and have committed to learning new technologies and languages.
@@ -27,9 +31,9 @@ A little background: I am a lifelong musician and creative. I am a software engi
 
 - ⚡ Fun fact: I LOVE flying FPV drones and Photography  
   
---- 
+<br/>
 
-<br/>  
+--- 
 
 
 ### My Skill Set:  
@@ -72,12 +76,20 @@ Backend
 
 ### My Stats: 
 
+<br/>
+<div style="display: flex; flex-direction: row;" align="center">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayarenas&layout=compact&theme=vision-friendly-dark)" />
+ <img class="img" src="(https://github.com/anuraghazra/github-readme-stats)" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayarenas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
+### Connect with me:
 
+---
 
-### Connect with me  
+<br/>
+
 <div align="center">
 <a href="https://instagram.com/https://www.instagram.com/mountainbase_photography/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
