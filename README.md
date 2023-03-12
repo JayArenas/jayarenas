@@ -24,7 +24,7 @@ A little background: I am a lifelong musician and creative. I am a software engi
 - 👷‍♂️ I’m currently working on "Mountain Base K9" & "I Heart Estate Sales"   
   
 
-- 🌱 I’m currently learning Advanced React methods, Advanced .NET and Python  
+- 🌱 I’m currently furthering my skills in React and .NET
   
 
 - ❓ Ask me about anything related to Full Stack Development  
@@ -69,8 +69,7 @@ Backend
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-</div>
-
+</div> 
 <br/>  
 
 ---
