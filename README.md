@@ -21,7 +21,7 @@ A little background: I am a lifelong musician and creative. I am a software engi
   
 <br/>  
 
-- 👷‍♂️ I’m currently working on "Mountain Base K9" & "I Heart Estate Sales"   
+- 👷‍♂️ I’m currently working with "Mountain Base K9" & "I Heart Estate Sales" - Full Stack Development Site  
   
 
 - 🌱 I’m currently furthering my skills in React and .NET
